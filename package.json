@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/qtumproject/qtuminfo#readme",
   "devDependencies": {
-    "lerna": "^2.5.1"
+    "lerna": "^2.11.0"
   }
 }
